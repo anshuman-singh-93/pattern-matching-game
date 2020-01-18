@@ -1,0 +1,32 @@
+
+#game-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+
+#game {
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+    text-align: center;
+    display: flex;
+    align-self: center;
+    flex-wrap: wrap;
+}
+
+#btn-container{
+    margin-top: 20px;
+}
+
+button{
+    width: 400px;
+    height: 35px;
+    background-color: blanchedalmond;
+    font-size: 15px;
+
+}
